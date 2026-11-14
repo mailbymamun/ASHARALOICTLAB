@@ -1,0 +1,25 @@
+{
+  "name": "Ashar Alo ICT Lab – নাম্বার সিস্টেম ভিজ্যুয়ালাইজার",
+  "short_name": "Ashar Alo ICT",
+  "description": "এইচএসসি ICT নাম্বার সিস্টেম যোগ, বিয়োগ ও রূপান্তর ভিজ্যুয়ালাইজার (অফলাইন সংস্করণ)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
